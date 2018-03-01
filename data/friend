@@ -1,0 +1,7 @@
+﻿xiaoming	laowang	ruhua	linzhiling
+laowang	xiaoming	fengjie
+ruhua	xiaoming	ligang	fengjie
+linzhiling	xiaoming	ligang	fengjie	guomeimei
+ligang	ruhua	fengjie	linzhiling
+guomeimei	fengjie	linzhiling
+fengjie	ruhua	laowang	linzhiling	guomeimei
