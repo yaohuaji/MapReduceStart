@@ -6,3 +6,7 @@
 代码对应包com.yaohuaji.mr.friend,测试数据对应data里的friend
 4、Pagerank:计算网页PR值
 代码对应包com.yaohuaji.mr.pagerank,测试数据对应data里的pagerank.txt
+5、微博广告推荐
+代码对应包com.yaohuaji.xinlang.tf,测试数据对应data里的weibo.txt
+最终的结果是计算出用户微博中各个词条出现的频率，通过对比用户微博中同一词条频率的大小，而实现一定比例的推荐
+计算公式在data里的图片中。
